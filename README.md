@@ -5,9 +5,9 @@
   - [Files Used](#Files-Used)
   - [Additional Documentation](#Additional-Documentation)
   - [Versioning](#Versioning)
-# Project Title
-## Description
+### Project Title
+### Description
 ### How to Run Program
-#### Files Used
-##### Additional Documentation
-###### Versioning
+### Files Used
+### Additional Documentation
+#### Versioning
