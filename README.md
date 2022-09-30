@@ -8,7 +8,7 @@
 # Project Title
   **Hello World**
 # Description
-  > Creating a sample repository in GitHub
+  > Creating a sample repository in GitHub.
 # How to Run Program
 # Files Used
 # Additional Documentation
