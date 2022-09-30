@@ -10,7 +10,7 @@
 # Description
   > Creating a sample repository in GitHub.
 # How to Run Program
-  ![Explain how you would run the program](/Images.jpg)
+  ![Image](https://user-images.githubusercontent.com/114694399/193178206-26896d77-7e40-4bc3-92cd-c2dbe79f7f0a.jpg)
 # Files Used
 # Additional Documentation
 # Versioning
