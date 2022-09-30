@@ -10,7 +10,6 @@
 # Description
   > Creating a sample repository in GitHub.
 # How to Run Program
-  ![Explain how you would run the program](Image.jpg)
 # Files Used
 # Additional Documentation
 # Versioning
