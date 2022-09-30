@@ -10,12 +10,12 @@
 # Description
   > Creating a sample repository in GitHub.
 # How to Run Program
-  `Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+  <Hello_World/>
+   <└── >
+       <│── README.md>
+       <│── pgmname1.R>
+       <│── filename1.csv>
+       <│── examples.html>
 # Files Used
 # Additional Documentation
 # Versioning
