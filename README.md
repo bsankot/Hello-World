@@ -1,9 +1,9 @@
 # Table of contents
-  - Project Title
+  - [Project Title](# Project-Title)
   - Description
-  - How to Run Program
-  - Files Used
-  - Additional Documentation
+  - How-to-Run-Program
+  - Files-Used
+  - Additional-Documentation
   - Versioning
 # Project Title
 # Description
