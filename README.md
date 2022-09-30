@@ -6,8 +6,8 @@
   - [Additional Documentation](#Additional-Documentation)
   - [Versioning](#Versioning)
 # Project Title
-# Description
-# How to Run Program
-# Files Used
-# Additional Documentation
-# Versioning
+## Description
+### How to Run Program
+#### Files Used
+##### Additional Documentation
+###### Versioning
